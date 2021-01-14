@@ -1,2 +1,5 @@
 # hello-world
-First Project
+
+Hi there!
+
+My name is Emily and I am learning to code.
